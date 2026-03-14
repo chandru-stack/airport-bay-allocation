@@ -51,7 +51,11 @@ npm install
 node index.js
 
 ## 👨‍💻 Author
+<<<<<<< HEAD
 **Chandru S** 
+=======
+**Your Name** 
+>>>>>>> 12e1a3c824320e00649b6d8fecfe4776cc0f0813
 - 📍 Chennai, India
 - 💼 [LinkedIn](www.linkedin.com/in/chandru-cr64)
 - 🐙 [GitHub](https://github.com/chandru-stack)
