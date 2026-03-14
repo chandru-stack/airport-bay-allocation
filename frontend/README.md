@@ -1,16 +1,42 @@
-# React + Vite
+# ✈️ Airport Bay Allocation System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔥 About
+A full-stack web application that intelligently assigns airport bays/gates 
+to flights in real-time. The system provides dashboards for different airport 
+departments to monitor and manage aircraft movements efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## React Compiler
+Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- TypeScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Backend
+- Node.js
+- Express.js
 
-## Expanding the ESLint configuration
+Database
+- PostgreSQL
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+API
+- REST API
+
+---
+
+## ✨ Features
+
+- 🛬 Assign airport bays to flights
+- 📊 AOCC dashboard for operational monitoring
+- 🛫 ATC dashboard for arrival/departure tracking
+- ✈️ Airline dashboard for flight management
+- 🛠 Apron dashboard for bay status
+- 🔐 Role-based authentication
+- 📱 Responsive UI
+
+---
+
+## 📂 Project Structure
