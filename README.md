@@ -1,15 +1,23 @@
 # ✈️ Airport Bay Allocation System
 
 ## 🔥 About
+<<<<<<< HEAD
 The **Automated Airport Bay Allocation & Management System** is a full-stack web application designed to simulate real-world airport ground operations and aircraft stand allocation.
 
 The system intelligently assigns airport bays (gates) to aircraft and enables coordination between multiple airport operational teams including **AOCC (Airport Operations Control Center), ATC (Air Traffic Control), Apron Control, and Airline Operations**.
 
 It helps monitor aircraft movements, manage bay allocations, detect operational conflicts, and improve aircraft turnaround efficiency with real-time operational visibility.
+=======
+A full-stack web application that intelligently assigns airport bays/gates 
+to flights in real-time. It simulates real-world airport ground operations 
+and provides operational dashboards for airport teams to monitor aircraft 
+movements, manage bay allocations, and coordinate airport activities.
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 
 ---
 
 ## 🛠️ Tech Stack
+<<<<<<< HEAD
 
 - **Frontend:** React.js, TypeScript, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
@@ -18,8 +26,17 @@ It helps monitor aircraft movements, manage bay allocations, detect operational 
 - **Tools:** Git, GitHub, Postman, VS Code
 
 ---
+=======
+- **Frontend:** React.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **API:** REST API
+>>>>>>> dd577ac (Updated README and removed merge conflict)
+
+---
 
 ## ✨ Features
+<<<<<<< HEAD
 
 - 🛬 Automated aircraft bay allocation system
 - 📊 AOCC operational dashboard for airport control
@@ -67,20 +84,51 @@ Provides airlines with:
 - Operational coordination with AOCC
 
 ---
+=======
+- 🛬 Assign and manage airport bays/gates to flights
+- 📊 AOCC dashboard for airport operations control
+- 🛫 ATC dashboard for arrival and departure monitoring
+- 🚧 Apron dashboard for ground movement management
+- ✈️ Airline dashboard for flight management
+- 🔄 Real-time bay status monitoring
+- ⚠️ Conflict detection for overlapping bay allocations
+- 📱 Responsive design for all screen sizes
+- 🗄️ PostgreSQL database for reliable data storage
+- 🔗 RESTful API integration between frontend and backend
+>>>>>>> dd577ac (Updated README and removed merge conflict)
+
+---
 
 ## 📸 Screenshots
 
+<<<<<<< HEAD
 <!-- Add screenshots of your dashboards below -->
 
 ![AOCC Dashboard](add-aocc-dashboard-image)
 ![ATC Dashboard](add-atc-dashboard-image)
 ![Apron Dashboard](add-apron-dashboard-image)
 ![Airline Dashboard](add-airline-dashboard-image)
+=======
+### AOCC Dashboard
+![AOCC Dashboard](screenshots/aocc-dashboard.png)
+
+### ATC Dashboard
+![ATC Dashboard](screenshots/atc-dashboard.png)
+
+### Apron Dashboard
+![Apron Dashboard](screenshots/apron-dashboard.png)
+
+### Airline Dashboard
+![Airline Dashboard](screenshots/airline-dashboard.png)
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 
 ---
 
 ## 🚀 Live Demo
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 🔧 Deployment in progress — coming soon on **Vercel**
 
 ---
@@ -100,18 +148,27 @@ git clone https://github.com/chandru-stack/airport-bay-allocation.git
 # Navigate to project folder
 cd airport-bay-allocation
 
+<<<<<<< HEAD
 # Backend Setup
+=======
+# Backend setup
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 cd backend
 npm install
 npm start
 
+<<<<<<< HEAD
 # Frontend Setup
+=======
+# Frontend setup
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 cd frontend
 npm install
 npm run dev
 
 ---
 
+<<<<<<< HEAD
 ## 🏗️ System Architecture
 
 The platform follows a **client-server architecture**:
@@ -136,6 +193,8 @@ This project demonstrates how modern web technologies can be used to build an **
 
 ---
 
+=======
+>>>>>>> dd577ac (Updated README and removed merge conflict)
 ## 👨‍💻 Author
 
 **Chandru S**
@@ -150,4 +209,8 @@ https://github.com/chandru-stack
 
 ---
 
+<<<<<<< HEAD
 ⭐ If you like this project, consider giving it a **star on GitHub!**
+=======
+⭐ If you like this project, give it a **star on GitHub!**
+>>>>>>> dd577ac (Updated README and removed merge conflict)
